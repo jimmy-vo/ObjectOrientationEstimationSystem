@@ -1,6 +1,16 @@
 # ObjectOrientationEstimationSystem
-Matlab Modeling and simulating KF (Kalman Filter), EKF (Extended Kalman Filter) and other optimization approaches on Object Orientation Estimation System
+This is a result after I Investigated on many pieces of related published paper. It includes Matlab Modeling and simulating on KF (Kalman Filter), EKF (Extended Kalman Filter) and other optimization approaches in Object Orientation Estimation System
 
+## Input
+* Accelerometer raw data
+* Gyroscope raw data
+* Magnetometer raw data
+
+## Output
+* Estimated Euler angles
+* Estimated Quaternion set
+
+## Approaches
 ### Tilt-compensation Method  
 ![photo](https://github.com/jimmyvo2410/ObjectOrientationEstimationSystem/blob/master/Matlab/pic/tilt-2.jpg)
 
