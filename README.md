@@ -1,5 +1,5 @@
 # ObjectOrientationEstimationSystem
-This is a result after I investigated on many pieces of related published paper. It includes Matlab Modeling and simulating on KF (Kalman Filter), EKF (Extended Kalman Filter) and other optimization approaches in the Object Orientation Estimation System.
+This is a result after I investigated on many pieces of related published paper. It includes Matlab modeling and simulating on KF (Kalman Filter), EKF (Extended Kalman Filter) and other optimization approaches in the object-orientation-estimation system.
 
 ## Input
 * Accelerometer raw data
